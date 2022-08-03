@@ -2,7 +2,9 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div>Header</div>
+    <>
+        <h1>Hello Header from my first branch</h1>
+    </>
   )
 }
 
